@@ -1,0 +1,13 @@
+ baixar o git
+
+git clone (clonar o projeto)
+
+enviar os arquivso pro git
+
+git add .
+
+git commit -m "aq tu adiciona oq tu fez ai, bota uma mensagem"
+
+git push (enviar arquivo)
+
+git pull (atualizar)
